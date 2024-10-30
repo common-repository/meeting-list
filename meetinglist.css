@@ -1,0 +1,15 @@
+/* Meetlinglist. Copyright (C) 2008, Rick Boatright.  $Revision: 1 $
+ * This file is licensed under the GNU GPL.
+ */
+
+/***
+ ***  Meeting list
+ ***/
+
+
+
+#ml-list table #mltable {
+ width:100%;
+ padding:0px;
+ border:solid 1px #999;
+}
